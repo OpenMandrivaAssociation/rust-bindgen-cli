@@ -13,7 +13,7 @@ Group:          Development/Rust
 
 License:        BSD-3-Clause
 URL:            https://crates.io/crates/bindgen-cli
-Source:         %{crates_source}
+Source:         https://crates.io/api/v1/crates/bindgen-cli/%{version}/download#/bindgen-cli-%{version}.crate
 Source1:	vendor.tar.xz
 
 ExclusiveArch:  %{rust_arches}

@@ -16,8 +16,6 @@ URL:            https://crates.io/crates/bindgen-cli
 Source:         https://crates.io/api/v1/crates/bindgen-cli/%{version}/download#/bindgen-cli-%{version}.crate
 Source1:	vendor.tar.xz
 
-ExclusiveArch:  %{rust_arches}
-
 BuildRequires:  cargo-rpm-macros >= 24
 BuildRequires:  rust >= 1.64.0
 

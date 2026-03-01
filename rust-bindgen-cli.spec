@@ -6,7 +6,7 @@
 %global crate bindgen-cli
 
 Name:           rust-bindgen-cli
-Version:        0.72.0
+Version:        0.72.1
 Release:        1
 Summary:        Automatically generates Rust FFI bindings to C and C++ libraries
 Group:          Development/Rust
